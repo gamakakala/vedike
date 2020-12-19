@@ -2019,9 +2019,9 @@
               },
               {
                 "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/logo.jpg",
-                "playVideo": false,
-                "videoUrl": "",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20201119-1242112020-11-6-13-45-50.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=s6ERUzneeHg",
                 "image": "@PROJECT_PATH@/assets/images/gamakakala-logohight.png",
                 "thumb": "@PROJECT_PATH@/assets/images/gamakakala-logohight-800x470.png",
                 "alt": "",
