@@ -1806,6 +1806,27 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-sjDIYD6SQO {
+  background: #413d3d;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-sjDIYD6SQO .image-block {
+  margin: auto;
+}
+.cid-sjDIYD6SQO figcaption {
+  position: relative;
+}
+.cid-sjDIYD6SQO figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sjDIYD6SQO .image-block {
+    width: 100% !important;
+  }
+}
 .cid-s7QMhHmxoA {
   padding-top: 0px;
   padding-bottom: 0px;
