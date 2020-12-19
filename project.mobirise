@@ -2019,9 +2019,9 @@
               },
               {
                 "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020716-043112020-7-0-17-17-4.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=_QfpfU9NSCg",
+                "videoPreview": "@THEME_PATH@/components/_images/logo.jpg",
+                "playVideo": false,
+                "videoUrl": "",
                 "image": "@THEME_PATH@/components/_images/background3.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background3.jpg",
                 "alt": "",
